@@ -147,6 +147,7 @@ Exemplo: Javascript.
 
 
 41) Escreva um autômato que reconheça: A|E JK U|O
+![automato](https://i.imgur.com/dQx81Ff.jpg) - **Renan Dias**
 
 42) Escreva um autômato que reconheça: 
 ```html
